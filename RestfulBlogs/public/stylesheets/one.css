@@ -1,0 +1,19 @@
+.body{
+    padding-top : 70px;
+}
+.icon{
+    font-size: 2em;
+}
+
+.newform{
+    width : 50%;
+    margin :0 auto;
+}
+
+.form-group{
+    padding-top : 20px;
+}
+
+#delete{
+    display : inline;
+}
